@@ -1,1 +1,450 @@
 # Youtube-Tutorial
+<html>
+
+<head>
+
+<title></title>
+
+<link rel="stylesheet" type="text/css" href="name.css">
+
+</head>
+
+<body>
+
+<header></header>
+
+
+<nav></nav>
+
+ <aside>
+
+
+<h2></h2>
+
+
+<p></p>
+
+
+</aside>
+
+
+
+<aside>
+
+
+<h2></h2>
+
+
+
+<p></p>
+
+</aside>
+
+
+
+
+<div>
+
+
+
+
+<img class="imagesidebar" src=""
+
+
+
+
+alt"" width"">
+
+
+
+
+</div>
+
+
+<main>
+
+
+
+
+<h1></h1>
+
+
+
+
+<p></p>
+
+
+
+
+</main>
+
+
+<section>
+
+
+
+
+<h2></h2>
+
+
+
+
+<p></p>
+
+
+
+
+</section>
+
+
+
+<footer>
+
+
+
+
+</footer>
+
+
+</body>
+
+
+
+
+body {
+
+
+
+
+
+
+background-color: #9c9f84;
+
+
+
+
+margin: 0px;
+
+
+
+
+font-family: Verdana, Georgia, serif;
+
+
+
+
+font-size: 14px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+header  {
+
+
+
+
+background-color: #5c755e;
+
+
+
+
+margin: 10px;
+
+
+
+
+height: 90px;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+}
+
+
+nav {
+
+
+
+
+background-color: #5c755e;
+
+
+
+
+margin: 10px;
+
+
+
+
+height: 35px;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+}
+
+
+
+
+main {
+
+
+
+
+background-color: #e5e4d7;
+
+
+
+
+margin-left: 10px;
+
+
+
+
+margin-right: 320px;
+
+
+
+
+margin-top: 10px;
+
+
+
+
+margin-bottom: 10px;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+padding: 20px;
+
+
+
+
+font-size: 110%;
+
+
+
+
+}
+
+
+
+section {
+
+
+
+
+background-color: #e5e4d7;
+
+
+
+
+margin-left: 10px;
+
+
+
+
+margin-right: 320px;
+
+
+
+
+margin-top: 10px;
+
+
+
+
+margin-bottom: 10px;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+padding: 20px;
+
+
+
+
+font-size: 110%;
+
+
+
+
+}
+
+
+aside {
+
+
+
+
+background-color: #e5e4d7;
+
+
+
+
+margin-left: 10px;
+
+
+
+
+margin-right: 10px;
+
+
+
+
+margin-top: 0px;
+
+
+
+
+margin-bottom: 10px;
+
+
+
+
+font-size: 105%;
+
+
+
+
+float: right;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+padding: 20px;
+
+
+
+
+width: 260px;
+
+
+
+
+clear: right;
+
+
+
+
+}
+
+
+.imagesidebar {
+
+
+
+
+width: 300px;
+
+
+
+
+float: right;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+margin-left: 10px;
+
+
+
+
+margin-right: 10px;
+
+
+
+
+margin-top: 0px;
+
+
+
+
+margin-bottom: 10px;
+
+
+
+
+clear: right;
+
+
+
+
+}
+
+
+footer {
+
+
+
+
+background-color: #5c755e;
+
+
+
+
+margin: 10px;
+
+
+
+
+height: 60px;
+
+
+
+
+clear: both;
+
+
+
+
+border-radius: 5px;
+
+
+
+
+}
+
