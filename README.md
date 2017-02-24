@@ -3,7 +3,7 @@
 
 <head>
 
-<title></title>
+<title>Layout Tutorial</title>
 
 <link rel="stylesheet" type="text/css" href="name.css">
 
